@@ -1,0 +1,15 @@
+{
+  "name": "test-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "Rakhi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
