@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "author": "Rakhi",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^8.7.0"
   }
+
 }
